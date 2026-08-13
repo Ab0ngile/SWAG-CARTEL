@@ -1,0 +1,38 @@
+CSS/style.css
+/* 
+    SWAG CARTEL
+    Main Website Styles
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+main {
+    padding: 30px;
+}
+
+footer {
+    padding: 20px;
+    text-align: center;
+}
