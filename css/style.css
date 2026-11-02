@@ -716,3 +716,99 @@ p {
         padding: 2.5rem 0;
     }
 }
+
+.accordion {
+
+    width: 100%;
+    padding: 15px;
+    border: none;
+    cursor: pointer;
+
+    background: #111;
+    color: white;
+
+    margin-top: 10px;
+
+    text-align: left;
+
+    font-size: 16px;
+}
+
+.panel {
+
+    display: none;
+
+    padding: 15px;
+
+    border: 1px solid #ddd;
+
+    background: white;
+}
+
+.cta-section {
+
+    text-align: center;
+    padding: 60px 20px;
+
+    background: #f5f5f5;
+}
+
+.btn {
+
+    display: inline-block;
+
+    background: black;
+    color: white;
+
+    padding: 12px 25px;
+
+    text-decoration: none;
+
+    margin-top: 20px;
+}
+
+.accordion {
+    width: 100%;
+    padding: 15px;
+    border: none;
+    cursor: pointer;
+    background: #111;
+    color: white;
+    margin-top: 10px;
+    text-align: left;
+    font-size: 16px;
+}
+
+.panel {
+
+    display: none;
+
+
+    padding: 15px;
+
+    border: 1px solid #ddd;
+
+    background: white;
+}
+
+.cta-section {
+
+    text-align: center;
+    padding: 60px 20px;
+
+    background: #f5f5f5;
+}
+
+.btn {
+
+    display: inline-block;
+
+    background: black;
+    color: white;
+
+    padding: 12px 25px;
+
+    text-decoration: none;
+
+    margin-top: 20px;
+}

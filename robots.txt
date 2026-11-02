@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap:
+https://swagcartel.netlify.app/sitemap.xml

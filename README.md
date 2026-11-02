@@ -67,6 +67,14 @@ Home
 
 ## Changelog
 
+## Part 3 Updates
+
+- Added search functionality
+- Added JavaScript form validation
+- Added SEO meta tags
+- Added robots.txt
+- Added sitemap.xml
+
 ### Version 1.0
 - Created initial project structure.
 - Created HTML pages.
@@ -75,6 +83,8 @@ Home
 - Added initial README file.
 
 ## References
+- https://www.w3schools.com/html/
+- https://developer.mozilla.org/en-US/docs/Web/HTML
 
 References will be added as research and website development
 progresses.
